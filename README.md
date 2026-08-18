@@ -14,7 +14,14 @@
 ---
 ### 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://vercel.app" width="48%" />
+  <img src="https://vercel.app" width="48%" />
+</p>
 
+<p align="center">
+  <img src="https://herokuapp.com" alt="Coding Streak" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshitaTiwari08&theme=radial" alt="GitHub Streak" />

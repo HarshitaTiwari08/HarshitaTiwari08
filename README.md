@@ -14,18 +14,20 @@
 ---
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://vercel.app" width="48%" />
-  <img src="https://vercel.app" width="48%" />
-</p>
 
-<p align="center">
-  <img src="https://herokuapp.com" alt="Coding Streak" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshitaTiwari08&theme=radial" alt="GitHub Streak" />
 </p>
 
 ---
+
 let's Connect 🤝
+
+
+### ☕ Support
+<p align="left">
+  <a href="https://buymeacoffee.com" target="_blank">
+    <img src="https://buymeacoffee.com" alt="Buy Me A Coffee" style="height: 42px !important;width: 151px !important;" />
+  </a>
+</p>

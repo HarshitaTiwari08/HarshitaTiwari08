@@ -15,7 +15,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HarshitaTiwari08&show_icons=true&theme=radial" alt="GitHub Stats" width="48%" />
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshitaTiwari08&layout=compact&theme=radial" alt="Top Languages" width="48%" />
 </p>
 

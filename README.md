@@ -14,10 +14,7 @@
 ---
 ### 📊 GitHub Stats
 
-<p align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshitaTiwari08&layout=compact&theme=radial" alt="Top Languages" width="48%" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshitaTiwari08&theme=radial" alt="GitHub Streak" />

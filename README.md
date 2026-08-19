@@ -1,6 +1,6 @@
 ## Hi there, I'm Harshita Tiwari  👋
 
-- 🔭 I’m Passionate student currently working on **Data Structure And Algorithm** using **java** And **C**!🚀
+🔭 I’m Passionate student currently working on **Data Structure And Algorithm** using **java** And **C**!🚀
   ---
   ### Programming tool I use :
 
@@ -14,7 +14,11 @@
 ---
 ### 📊 GitHub Stats
 
-
+<p align="center">
+  <a href="https://github.com/cat-ppuccin/cat-walk">
+    <img src="https://raw.githubusercontent.com/cat-ppuccin/cat-walk/main/assets/cat.gif" width="100" alt="Walking Cat" />
+  </a>
+</p
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshitaTiwari08&theme=radial" alt="GitHub Streak" />

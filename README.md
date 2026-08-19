@@ -1,8 +1,5 @@
 ## Hi there, I'm Harshita Tiwari  👋
 
-🔭 I’m Passionate student currently working on **Data Structure And Algorithm** using **java** And **C**!🚀
-  ---
-  ### Programming tool I use :
 
   ### 🛠️ Tech Stack & Tools    
   

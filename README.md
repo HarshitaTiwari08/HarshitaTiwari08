@@ -15,9 +15,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/cat-ppuccin/cat-walk">
-    <img src="https://raw.githubusercontent.com/cat-ppuccin/cat-walk/main/assets/cat.gif" width="100" alt="Walking Cat" />
-  </a>
+  <img src="https://raw.githubusercontent.com/eiannone/eiannone/main/assets/cat.gif" width="150" alt="Pixel Cat" />
 </p>
 
 <p align="center">

@@ -4,8 +4,11 @@
   ---
   ### Programming tool I use :
 
-  ### 🛠️ Tech Stack & Tools
-
+  ### 🛠️ Tech Stack & Tools    
+  
+<p align="center">
+  <video src="blob:https://github.com/3e8d0347-66c5-4fd9-9091-b7476e7530ac" />
+</p>
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)

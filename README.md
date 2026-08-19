@@ -14,6 +14,7 @@
 ---
 ### 📊 GitHub Stats
 
+![Cat Badge](https://img.shields.io/badge/-Cat%20Lover-black?style=for-the-badge&logo=github&logoColor=white)
 <p align="center">
   <img src="https://raw.githubusercontent.com/eiannone/eiannone/main/assets/cat.gif" width="150" alt="Pixel Cat" />
 </p>
